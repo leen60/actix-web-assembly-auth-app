@@ -1,0 +1,3 @@
+[workspace]
+members = ["auth_api_w_actix", "auth_w_yew", "common"]
+default-members = ["auth_api_w_actix"]
