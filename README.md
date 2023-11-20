@@ -1,6 +1,6 @@
-# authentication-app
+# Authentication/Authorization APP
 ## Back-end
-Runs on [Actix Web](https://actix.rs/) framework. Compile by first set up the database connection via **diesel setup** run the service with **cargo run**.
+Runs on [Actix Web](https://actix.rs/) framework. Compile by first setting up the database connection via **diesel setup** run the service with **cargo run**.Navigate to http://localhost:8080/.
 ## Storage
 Cloud based MySql server. For back-end to work, docker image should be running. ORM is managed with Diesel.
 ## Front-end
